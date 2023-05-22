@@ -1,0 +1,1 @@
+the mesh of shapenet is not watertight, we can use the code of occupancy-network to mask meshes watertight 
