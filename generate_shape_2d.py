@@ -1,4 +1,4 @@
-```
+
 import random
 
 import numpy as np
@@ -620,4 +620,4 @@ img = np.zeros((480, 640), np.uint8)
 img = draw_polygon(img,10)
 cv2.imshow('img', img)
 cv2.waitKey(2000)
-```
+
