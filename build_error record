@@ -1,0 +1,2 @@
+# Command '['ninja', '-v']' returned non-zero exit status 1
+change Command '['ninja', '-v']' to ['ninja', '--version'] (notice the error information)
